@@ -20,6 +20,4 @@
 </body>
 </html>
 
-Screenshot
-
 ![filmwebsite](3filmflix.gif)
